@@ -7,3 +7,6 @@ First time working with websockets It took me few days to kinda understand how t
 
 I think If I had more time I would make it perfect! With the frontend having proper routing and so on. I think I have covered everything that is asked in requirements, I got the idea of
 how it works. Was a nice experience at the end of the day anyways! :)
+
+
+HAVE ADDED DEMO PICTURE AS WELL!

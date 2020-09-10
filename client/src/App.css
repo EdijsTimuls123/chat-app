@@ -1,0 +1,42 @@
+.app-container {
+    width: 600px;
+    padding: 20px;
+    margin: auto;
+}
+
+.app-title {
+    font-size: 16;
+}
+
+.chat-container {
+    display: flex;
+    align-items: center;
+}
+
+.chat-message-sender {
+    background-color: grey;
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 200px;
+    word-wrap: break-word;
+}
+
+.chat-message-receiver {
+    background-color: lightblue;
+    border-radius: 20px;
+    padding: 20px;
+    max-width: 200px;
+    word-wrap: break-word;
+}
+
+.aligned-left {
+    margin-right: auto;
+}
+
+.aligned-right {
+    margin-left: auto;
+}
+
+.centered {
+    margin: auto;
+}
